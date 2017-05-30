@@ -1,0 +1,68 @@
+*{
+  box-sizing: border-box;
+  /*outline: dotted 1px red !important;*/
+  }
+  body {
+    background-color: #EEEEEE;
+    font-family: 'Lora', serif;
+  }
+.me-bg {
+  background-color: #009688;
+}
+.portfolio-bg {
+  background-color: #fff;
+}
+.footer-bg {
+  background-color: #283593;
+}
+.top-margin {
+  margin-top: 50px;
+}
+.img-container {
+  background-image: url('https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xat1/v/t1.0-9/12027805_1652859904955168_8686523463694983795_n.jpg?oh=fa203ccf052d866b3f46dbbb6edce4bb&oe=580CDA27&__gda__=1472745519_169af2c16a7aa916d7c75a253e08790d');
+  background-size:cover;
+  background-repeat:no-repeat;
+  width:250px;
+  height:250px;
+  border-radius: 49%;
+  margin: 25px 0 25px 0;
+}
+.img-size {
+  width: 350px;
+}
+.name {
+  font-weight: 600;
+  font-size: 22px;
+}
+.navbar-font {
+  font-size: 20px;
+}
+.dark-bg-font {
+  color: #fff;
+}
+.navbar-right {
+  float:right;
+}
+.main-theme-bg {
+  background-color: #fff;
+}
+
+.contact-bg {
+  background-color: #b9e2f0;
+}
+.margin-bottom {
+  margin-bottom: 15px;
+}
+.margin-top {
+  margin-top: 28px;
+}
+.margin-left {
+  margin-left: 10px;
+}
+.border {
+  border-left: solid 2px #999;
+  border-right: solid 2px #999;
+}
+.link-font {
+  font-size: 20px;
+}
